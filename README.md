@@ -6,4 +6,4 @@ WHEN ONE TREATS PEOPLE WITH BENEVOLENCE, JUSTICE, AND RIGHTEOUSNESS, AND REPOSES
 HTML,CSS ile görsellik ve içerik oluşturuldu.
 
 <h3>Ekran Görüntüsü</h3>
-![](screen.gif)
+![](ekran.gif)
